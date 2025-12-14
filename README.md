@@ -1,5 +1,5 @@
 # digitalClock based on Waveshare_ST7262_LVGL with esp32s3 as the main CPU
-![How it looks!](https://ibb.co/p9FvG4w)
+![How it looks!](clock.png)
 
 # Waveshare_ST7262_LVGL
 
